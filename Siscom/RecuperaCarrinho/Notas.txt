@@ -1,0 +1,3 @@
+1 - Corrigir problema do botão
+2 - Corrigir arquivo do Cammand
+
